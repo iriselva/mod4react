@@ -21,8 +21,9 @@ Hope you like it!
 ## Live Demo
 Live demo of the page from Surge can be found here: [React Image Palette Generator](http://reactimagepalette.surge.sh/)
 
----
 ## Recources
 This project was made with 
 + [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 + [Unsplash API](https://source.unsplash.com/)
+
+---
